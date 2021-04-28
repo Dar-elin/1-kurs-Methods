@@ -42,3 +42,7 @@ void Return(); //  операция «вернуть»
 Построить производные классы Book и Magazin. Класс Book со-держит данные-члены: author, title, publisher, year и методы: Author(); 
 Title(); Publisher(); YearOf Publishing(); Show().
 Класс Magazin включает данные-члены: volume; number; year; title и методы: Volume();  Title(); Number(); Year(); Show().
+
+Задачи на 4-6
+
+Задано множество точек. Провести окружность так, чтобы количе-ство точек внутри и вне круга различалось наименьшим образом.
