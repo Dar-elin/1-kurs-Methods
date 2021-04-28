@@ -1,0 +1,3 @@
+﻿  LB5.cpp
+D:\Мехмат\___ПРОГА\___ПРОГА\LB5(a,b)\LB5\LB5.cpp(88,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+  LB5.vcxproj -> D:\Мехмат\___ПРОГА\___ПРОГА\LB5(a,b)\Debug\LB5.exe

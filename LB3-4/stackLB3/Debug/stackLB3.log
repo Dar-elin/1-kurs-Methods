@@ -1,0 +1,6 @@
+﻿  myfunctions.cpp
+  stackLB3.cpp
+D:\Мехмат\___ПРОГА\___ПРОГА\LB3\stackLB3\stackLB3.cpp(57,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Мехмат\___ПРОГА\___ПРОГА\LB3\stackLB3\stackLB3.cpp(78,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  stackLB3.vcxproj -> D:\Мехмат\___ПРОГА\___ПРОГА\LB3\Debug\stackLB3.exe
